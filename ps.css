@@ -1,0 +1,68 @@
+.allproperty{
+    padding: 20px 20px 10px 20px;
+    background-color: rgba(78, 82, 114, 0.35);
+}
+
+.allproperty_h1{
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.doc_sec1{
+    background: linear-gradient(177.23deg, #9C2CF3 -13.49%, #3A49F9 109.75%);
+    border-radius: 20px;
+}
+
+.doc_sec2{
+    background-image: url('/Image/Card\ 1\ Mask.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.doc_sec3{
+    padding: 20px 10px 0px ;
+}
+
+.doc_sec4{
+    margin-left: -30px;
+    padding-top: 15px;
+}
+
+.trans_d{
+    background: url('/Image/card1\ 1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 120%;
+    border-radius: 20px;
+}
+
+.text-dark1{
+    color: black;
+}
+
+.trans_h1{
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+}
+
+.footer1{
+    padding: 10px;
+    background-color: rgba(78, 82, 114, 0.35);
+    border-radius: 20px 20px 0 0;
+}
+
+.footer2{
+    background-color: rgba(114, 117, 145, 0.35);
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.footer3{
+    margin-top: -20px;
+    padding: 10px;
+    border-radius: 35%;
+    background-color: #3A49F9;
+}
