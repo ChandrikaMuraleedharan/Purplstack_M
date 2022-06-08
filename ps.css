@@ -144,3 +144,39 @@
     
     
 }
+
+/*Service Page*/
+
+.search1{
+    background-color: #2D3153;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.serv1{
+    background-color: #535882;
+}
+
+.serv2{
+    background-color: #282C4A;
+}
+
+@media only screen and (max-width: 789px)  {/*Mobile*/
+    .search1{
+        background-color: #2D3153;
+        height: 50px;
+        border-radius: 10px;
+    }
+    
+    .serv1{
+        background-color: #535882;
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    
+    .serv2{
+        background-color: #282C4A;
+        margin-right: 20px;
+        margin-left: 20px;
+    } 
+}
